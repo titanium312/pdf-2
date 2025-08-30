@@ -1,0 +1,7 @@
+{
+  "name": "visor-hsj-ayapel",
+  "private": true,
+  "scripts": {
+    "build": "echo \"No build step\""
+  }
+}
